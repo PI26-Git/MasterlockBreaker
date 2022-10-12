@@ -1,4 +1,5 @@
-thrd = int(input("Please enter the third number of your combination:\n"))a = thrd%4
+thrd = int(input("Please enter the third number of your combination:\n"))
+a = thrd%4
 b = a+4
 c = b+4
 d = c+4
@@ -23,7 +24,9 @@ ii = hh+4
 jj = ii+4
 
 print("\nThese are your possible combinations:\n")
+
 #There is probably a better way to print these out, but I just started learning python.
+
 print(a,aa,thrd)
 print(a,bb,thrd)
 print(a,cc,thrd)
