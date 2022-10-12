@@ -1,6 +1,4 @@
-# MasterlockBreaker
-
-**How to use:**
+## How to use:
 
 1. Make sure you have the latest version of python installed. ([Intructions](https://realpython.com/installing-python/))
 2. Download the .zip file and extratct it.
@@ -11,12 +9,13 @@ You should now see 100 possible lock combinations. It will take a while but try 
 
 Please note this only works for Masterlocks. Locks with a model number starting in 800 and 908 usually don't work.
 
-**How to find the third number in your combination:**
+## How to find the third number in your combination:
 
 Instructions taken from [here.](https://www.art-of-lockpicking.com/how-to-crack-a-master-lock-combo/)
 (Go here if you have a problem or you want more in-depth instructions.)
 
 **Step 1: Clear the lock:**
+  
   Rotate the dial, at minimum, three times past the zero mark in the clockwise (right) direction. Additionally, be sure to stop the rotation at the zero mark.
 
 **Step 2: Place tension on the shackle:**
