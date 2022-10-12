@@ -2,7 +2,7 @@
 
 How to use:
 
-1. Make sure you have the latest version of python installed. (Intructions: https://realpython.com/installing-python/)
+1. Make sure you have the latest version of python installed. ({Intructions](https://realpython.com/installing-python/))
 2. Download the .zip file and extratct it.
 3. Open the extracted folder.
 4. Double-click the .py file.
